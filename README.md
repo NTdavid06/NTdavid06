@@ -1,39 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>David | Frontend</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-    body {
-      background: black;
-      color: #00ff88;
-      font-family: monospace;
-      padding: 40px;
-    }
-    h1 {
-      font-size: 2.5rem;
-    }
-    .card {
-      border: 1px solid #00ff88;
-      padding: 20px;
-      max-width: 600px;
-    }
-  </style>
-</head>
-<body>
+👋 Hi there, I'm David! 🚀
 
-  <h1>👋 Hi, I'm David</h1>
+## 🌟 About Me
+I'm a developer passionate about programming, technology,
+and building cool projects that keep improving my skills.
 
-  <div class="card">
-    <p><strong>Role:</strong> Frontend Developer</p>
-    <p><strong>Status:</strong> Active</p>
-    <p><strong>Focus:</strong> HTML Templates & UI</p>
-  </div>
+- 🔭 Currently learning and working on personal projects
+- 💡 Interested in web development, apps, and automation
 
-  <p style="margin-top:20px;">
-    🌐 GitHub: <a href="https://github.com/TUUSUARIO" style="color:#00ff88">View Profile</a>
-  </p>
+## 🛠 My Skillset
+- Languages: Java, JavaScript, Python, SQL
+- Tools: Git, GitHub, VS Code
 
-</body>
-</html>## Hi there 👋
+## 📊 GitHub Stats
+![NTdavid06's GitHub stats](https://github-readme-stats.vercel.app/api?username=NTdavid06&show_icons=true&theme=radical)
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NTdavid06&layout=compact&theme=radical)
+
+---
+
+⭐ Thanks for visiting my profile!
