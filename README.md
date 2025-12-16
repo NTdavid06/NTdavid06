@@ -18,5 +18,8 @@ y la creación de proyectos que me ayuden a mejorar constantemente mis habilidad
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=NTdavid06&layout=compact&theme=radical)
 
 ---
-
+## 🚀 Projects
+- 🌐 Personal Website
+- 🧮 JavaScript Calculator
+- 📋 To-Do List App
 ⭐ ¡Gracias por visitar mi perfil!
