@@ -22,4 +22,5 @@ y la creación de proyectos que me ayuden a mejorar constantemente mis habilidad
 - 🌐 Personal Website
 - 🧮 JavaScript Calculator
 - 📋 To-Do List App
+___
 ⭐ ¡Gracias por visitar mi perfil!
