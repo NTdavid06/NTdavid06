@@ -1,22 +1,22 @@
-👋 Hi there, I'm David! 🚀
+👋 ¡Hola! Soy David 🚀
 
-## 🌟 About Me
-I'm a developer passionate about programming, technology,
-and building cool projects that keep improving my skills.
+## 🌟 Sobre mí
+Soy un desarrollador apasionado por la programación, la tecnología  
+y la creación de proyectos que me ayuden a mejorar constantemente mis habilidades.
 
-- 🔭 Currently learning and working on personal projects
-- 💡 Interested in web development, apps, and automation
+- 🔭 Actualmente aprendiendo y trabajando en proyectos personales
+- 💡 Interesado en desarrollo web, aplicaciones y automatización
 
-## 🛠 My Skillset
-- Languages: Java, JavaScript, Python, SQL
-- Tools: Git, GitHub, VS Code
+## 🛠 Mis habilidades
+- Lenguajes: Java, JavaScript, Python, SQL
+- Herramientas: Git, GitHub, VS Code
 
-## 📊 GitHub Stats
-![NTdavid06's GitHub stats](https://github-readme-stats.vercel.app/api?username=NTdavid06&show_icons=true&theme=radical)
+## 📊 Estadísticas de GitHub
+![Estadísticas de NTdavid06](https://github-readme-stats.vercel.app/api?username=NTdavid06&show_icons=true&theme=radical)
 
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NTdavid06&layout=compact&theme=radical)
+## 🔥 Lenguajes más utilizados
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=NTdavid06&layout=compact&theme=radical)
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ ¡Gracias por visitar mi perfil!
