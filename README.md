@@ -24,7 +24,7 @@ y la creación de proyectos que me ayuden a mejorar constantemente mis habilidad
 - 📋 To-Do List App
 ___
 ## 🚀 Mis proyectos
-🌐 Página 1: https://TU_LINK_1  
-🌐 Página 2: https://TU_LINK_2
+🌐 Página 1: https://https://ntdavid06.github.io/10-meses/
+🌐 Página 2: https://https://ntdavid06.github.io/Nataly/
 ___
 ⭐ ¡Gracias por visitar mi perfil!
