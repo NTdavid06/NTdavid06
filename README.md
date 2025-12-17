@@ -1,16 +1,18 @@
-<p align="center">
-  <img src="https://i.imgur.com/XXXXXXX.png" alt="Banner David Developer" />
-</p><h1 align="center">👋 Hola, soy David</h1>
-<h3 align="center">Desarrollador en formación | Apasionado por la tecnología y el desarrollo web</h3>
+<p align="center">  
+  <img src="https://i.imgur.com/XXXXXXX.png" alt="Banner David Developer" />  
+</p>  <h1 align="center">👋 ¡Hola! Soy David 🚀</h1>  
+<h3 align="center">Desarrollador apasionado por la tecnología y la creación de proyectos</h3>  
 ---
 
 🌟 Sobre mí
 
-Soy un desarrollador en constante aprendizaje, enfocado en crear proyectos web funcionales, visuales y bien estructurados. Me gusta aprender haciendo, experimentar con nuevas tecnologías y mejorar mis habilidades día a día mediante proyectos reales.
+Soy un desarrollador en constante aprendizaje, enfocado en crear proyectos web
+funcionales, visuales y bien estructurados que me permitan mejorar mis habilidades
+cada día.
 
-🔭 Trabajo en proyectos personales para reforzar mis conocimientos
+🔭 Actualmente trabajando en proyectos personales
 
-🌱 Aprendiendo nuevas tecnologías y buenas prácticas de programación
+🌱 Aprendiendo nuevas tecnologías y buenas prácticas
 
 💡 Interesado en desarrollo web, aplicaciones y automatización
 
@@ -18,41 +20,41 @@ Soy un desarrollador en constante aprendizaje, enfocado en crear proyectos web f
 
 ---
 
-🛠️ Lenguajes y tecnologías
+🛠️ Tecnologías y herramientas
 
-🌐 Desarrollo Web
+Lenguajes
 
-   
 
-💻 Lenguajes de programación
 
-    
 
-🗄️ Bases de datos y scripting
 
- 
 
-🧰 Herramientas
+Herramientas
 
-  
+
+
+
 
 
 ---
 
 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NTdavid06&show_icons=true&theme=radical" />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTdavid06&layout=compact&theme=radical" />
-</p>
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=NTdavid06&show_icons=true&theme=radical" />  
+</p>  🔥 Lenguajes más utilizados
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTdavid06&layout=compact&theme=radical" />  
+</p>  
 ---
 
 🧩 Proyectos destacados
 
 🌐 Página Romántica
 
-Sitio web interactivo con animaciones, música y diseño personalizado. Proyecto enfocado en creatividad, experiencia de usuario y efectos visuales.
+Sitio web interactivo con animaciones, música y diseño personalizado.
+Proyecto enfocado en creatividad, efectos visuales y experiencia de usuario.
 
 🔗 https://ntdavid06.github.io/10-meses/
 
@@ -61,7 +63,8 @@ Sitio web interactivo con animaciones, música y diseño personalizado. Proyecto
 
 💖 Página Dedicatoria
 
-Proyecto web desarrollado con HTML, CSS y JavaScript, centrado en diseño visual, estructura y expresión creativa.
+Proyecto web desarrollado con HTML, CSS y JavaScript,
+centrado en diseño visual y emociones.
 
 🔗 https://ntdavid06.github.io/Nataly/
 
@@ -72,7 +75,7 @@ Proyecto web desarrollado con HTML, CSS y JavaScript, centrado en diseño visual
 
 Convertirme en desarrollador Full Stack
 
-Crear proyectos reales y funcionales
+Crear proyectos reales y útiles
 
 Mejorar lógica de programación y buenas prácticas
 
@@ -108,7 +111,7 @@ Consumo de APIs REST 🌐
 
 ---
 
-📫 Contacto
+📫 Contáctame
 
 💼 GitHub: https://github.com/NTdavid06
 
@@ -120,4 +123,6 @@ Consumo de APIs REST 🌐
 
 ---
 
-⭐ Gracias por visitar mi perfil 💻 Siempre aprendiendo y creando
+⭐ Gracias por visitar mi perfil
+💻 Siempre aprendiendo y creando
+En lenguajes puedes poner todos los lenguajes que hay
