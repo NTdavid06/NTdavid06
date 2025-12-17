@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://i.imgur.com/XXXXXXX.png" alt="Banner David Developer" />  
+  <img src="https://imgur.com/a/tXoQq8Q" alt="Banner David Developer" />  
 </p>  <h1 align="center">👋 ¡Hola! Soy David 🚀</h1>  
 <h3 align="center">Desarrollador apasionado por la tecnología y la creación de proyectos</h3>  
 ---
