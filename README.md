@@ -41,10 +41,6 @@ cada día.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTdavid06&layout=compact&theme=radical" />
 </p>
-Frontend: {Link:HTML, CSS, JavaScript y React https://developer.mozilla.org/es/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN}
-- Backend: {Link:Python (Flask) y PostgreSQL https://developer.mozilla.org/es/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN}
-- Despliegue: {Link:Docker y AWS https://developer.mozilla.org/es/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN}
-
 
 ---
 
