@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://uploadnow.io/files/Rzbwldx" alt="Banner David Developer" />  
+  <img src="https://lh3.googleusercontent.com/d/1s9wsso3X0Lm5q64yFg3VMONcKQBsg_zJ" alt="">
 </p>  <h1 align="center">👋 ¡Hola! Soy David 🚀</h1>  
 <h3 align="center">Desarrollador apasionado por la tecnología y la creación de proyectos</h3>  
 ---
