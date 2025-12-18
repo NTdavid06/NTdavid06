@@ -41,6 +41,10 @@ cada día.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTdavid06&layout=compact&theme=radical" />
 </p>
+Frontend: {Link:HTML, CSS, JavaScript y React https://developer.mozilla.org/es/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN}
+- Backend: {Link:Python (Flask) y PostgreSQL https://developer.mozilla.org/es/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN}
+- Despliegue: {Link:Docker y AWS https://developer.mozilla.org/es/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN}
+
 
 ---
 
@@ -93,20 +97,4 @@ centrado en diseño visual y emociones.
 ---
 
 ⭐ Gracias por visitar mi perfil  
-💻 *Siempre aprendiendo y creando*
-
-___# Mi Proyecto de Ejemplo
-
-¡Bienvenido a mi proyecto! Aquí puedes encontrar información sobre mi trabajo en desarrollo web.
-
-## 🚀 Tecnologías Utilizadas
-- Frontend: {Link:HTML, CSS, JavaScript y React https://developer.mozilla.org/es/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN}
-- Backend: {Link:Python (Flask) y PostgreSQL https://developer.mozilla.org/es/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN}
-- Despliegue: {Link:Docker y AWS https://developer.mozilla.org/es/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN}
-
-## 💻 Ejemplo de Código (Python)
-```python
-def saludar(nombre):
-    return f"¡Hola, {nombre}!"
-
-print(saludar("Mundo"))
+💻 *Siempre aprendiendo y creando 
